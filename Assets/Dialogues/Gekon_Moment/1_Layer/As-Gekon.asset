@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cccac36036930d7489d9bef2cdcdd1c6, type: 3}
+  m_Name: As-Gekon
+  m_EditorClassIdentifier: 
+  <MessageContent>k__BackingField: "\u041C\u0430\u043B\u0435\u043D\u044C\u043A\u0438\u0439
+    \u043A\u0430\u043A \u0433\u0435\u043A\u043E\u043D"
+  <MessageAudioClip>k__BackingField: {fileID: 8300000, guid: be0487815fed72c48831dd3c93c1f780,
+    type: 3}
+  <UserResponses>k__BackingField:
+  - <ResponseContent>k__BackingField: "\u041A\u0430\u043A \u0433\u0435\u043A\u043E\u043D?"
+    <IsPositive>k__BackingField: 1
+    <ResponseAudioClip>k__BackingField: {fileID: 8300000, guid: 54d4d94c64f87944cb70e2d417ac4277,
+      type: 3}
+    <ResponseNode>k__BackingField: {fileID: 11400000, guid: 0c4f63da285ac82488ae5419ed93009b,
+      type: 2}
+    <EndingSequenceProp>k__BackingField: {fileID: 0}

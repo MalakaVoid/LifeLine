@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cccac36036930d7489d9bef2cdcdd1c6, type: 3}
+  m_Name: She-Grabbed-Knife-1
+  m_EditorClassIdentifier: 
+  <MessageContent>k__BackingField: "\u041E\u043D\u0430 \u0441\u0445\u0432\u0430\u0442\u0438\u043B\u0430
+    \u043D\u043E\u0436... \u0438 \u043D\u0430\u0447\u0430\u043B\u0430 \u0438\u043C
+    \u0440\u0430\u0437\u043C\u0430\u0445\u0438\u0432\u0430\u0442\u044C..."
+  <MessageAudioClip>k__BackingField: {fileID: 8300000, guid: c8ca294e30ea3b0479c1bd950c5fbb75,
+    type: 3}
+  <UserResponses>k__BackingField:
+  - <ResponseContent>k__BackingField: "\u0427\u0442\u043E \u043F\u0440\u043E\u0438\u0437\u043E\u0448\u043B\u043E
+      \u0434\u0430\u043B\u044C\u0448\u0435?"
+    <IsPositive>k__BackingField: 1
+    <ResponseAudioClip>k__BackingField: {fileID: 8300000, guid: 54d4d94c64f87944cb70e2d417ac4277,
+      type: 3}
+    <ResponseNode>k__BackingField: {fileID: 11400000, guid: 608e064fce7f8e745a83dfeb99af4485,
+      type: 2}
+    <EndingSequenceProp>k__BackingField: {fileID: 0}

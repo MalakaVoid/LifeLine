@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cccac36036930d7489d9bef2cdcdd1c6, type: 3}
+  m_Name: Nothing-Left-3
+  m_EditorClassIdentifier: 
+  <MessageContent>k__BackingField: "\u041C\u043D\u0435 \u043D\u0438\u0447\u0435\u0433\u043E
+    \u043D\u0435 \u043E\u0441\u0442\u0430\u0432\u0430\u043B\u043E\u0441\u044C! \u041E\u043D\u0430
+    \u0440\u0430\u0437\u043C\u0430\u0445\u0438\u0432\u0430\u043B\u0430 \u043D\u043E\u0436\u043E\u043C!"
+  <MessageAudioClip>k__BackingField: {fileID: 8300000, guid: c8ca294e30ea3b0479c1bd950c5fbb75,
+    type: 3}
+  <UserResponses>k__BackingField:
+  - <ResponseContent>k__BackingField: "\u0425\u043E\u0440\u043E\u0448\u043E, \u0443\u0441\u043F\u043E\u043A\u043E\u0439\u0442\u0435\u0441\u044C.
+      \u041C\u043D\u0435 \u043D\u0443\u0436\u043D\u043E \u0437\u043D\u0430\u0442\u044C,
+      \u0447\u0435\u043C \u0432\u044B \u0435\u0435 \u0443\u0431\u0438\u043B\u0438"
+    <IsPositive>k__BackingField: 1
+    <ResponseAudioClip>k__BackingField: {fileID: 8300000, guid: 30d674683cc653a439fd1f1d301e34c0,
+      type: 3}
+    <ResponseNode>k__BackingField: {fileID: 11400000, guid: 8140f91f090e068428573bda7f5cc90e,
+      type: 2}
+    <EndingSequenceProp>k__BackingField: {fileID: 0}
